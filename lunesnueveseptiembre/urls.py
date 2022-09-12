@@ -20,6 +20,6 @@ from secondApp import views as app2
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("eldenring/", app2.display),
+    path("eldenring123/", app2.display),
     path("hola/", app2.displaylink)
 ]
