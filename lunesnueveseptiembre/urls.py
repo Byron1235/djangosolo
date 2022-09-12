@@ -25,5 +25,4 @@ urlpatterns = [
     path("horafecha/", app1.displayDateTime),
     path("eldenring123/", app2.display),
     path("hola213/", app2.displaylink)
->>>>>>> rama2
 ]
