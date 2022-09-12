@@ -24,6 +24,6 @@ urlpatterns = [
     path ("hola/", app1.display),
     path("horafecha/", app1.displayDateTime),
     path("eldenring123/", app2.display),
-    path("hola/", app2.displaylink)
-
+    path("hola213/", app2.displaylink)
+>>>>>>> rama2
 ]
