@@ -23,6 +23,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path ("hola/", app1.display),
     path("horafecha/", app1.displayDateTime),
-    path("second", app2.display),
-    path("link/", app2.displaylink)
+    path("eldenring123/", app2.display),
+    path("hola/", app2.displaylink)
 ]
