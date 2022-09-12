@@ -21,5 +21,6 @@ from firstApp import views as app1
 urlpatterns = [
     path('admin/', admin.site.urls),
     path ("hola/", app1.display),
-    
+    path("horafecha/", app1.displayDateTime),
+
 ]
