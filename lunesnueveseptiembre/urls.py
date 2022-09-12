@@ -25,5 +25,4 @@ urlpatterns = [
     path("horafecha/", app1.displayDateTime),
     path("second", app2.display),
     path("link/", app2.displaylink)
-
 ]
